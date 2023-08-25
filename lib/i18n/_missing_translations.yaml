@@ -375,7 +375,7 @@ it:
   editor:
     menu:
       bgPatterns:
-        tablature(OUTDATED): Tablature
+        tablature(OUTDATED): Tablatura
 ja:
   home:
     titles:
